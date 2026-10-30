@@ -14,3 +14,4 @@ backup/v5-*/
 backup/v6-fonts/
 backup/v6-source/
 backup/v6-pre-*/
+dist/
