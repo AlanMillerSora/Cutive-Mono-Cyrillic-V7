@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="1240"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="949.0" y="-237.0" type="curve" smooth="yes"/>
+      <point x="932.3333333333333" y="-237.0"/>
+      <point x="919.6666666666666" y="-229.0"/>
+      <point x="911.0" y="-213.0" type="curve" smooth="yes"/>
+      <point x="247" y="1113" type="line" smooth="yes"/>
+      <point x="243.66666666666663" y="1119.6666666666665"/>
+      <point x="241.99999999999997" y="1126.6666666666665"/>
+      <point x="242.0" y="1134.0" type="curve" smooth="yes"/>
+      <point x="241.99999999999997" y="1146.0"/>
+      <point x="246.83333333333331" y="1155.5"/>
+      <point x="256.5" y="1162.5" type="curve" smooth="yes"/>
+      <point x="266.16666666666663" y="1169.5"/>
+      <point x="276.66666666666663" y="1173.0"/>
+      <point x="288.0" y="1173.0" type="curve" smooth="yes"/>
+      <point x="305.3333333333333" y="1173.0"/>
+      <point x="317.3333333333333" y="1166.0"/>
+      <point x="324.0" y="1152.0" type="curve" smooth="yes"/>
+      <point x="991" y="-178" type="line" smooth="yes"/>
+      <point x="993.6666666666665" y="-183.33333333333331"/>
+      <point x="994.9999999999999" y="-189.0"/>
+      <point x="995.0" y="-195.0" type="curve" smooth="yes"/>
+      <point x="994.9999999999999" y="-207.0"/>
+      <point x="990.1666666666665" y="-217.0"/>
+      <point x="980.5" y="-225.0" type="curve" smooth="yes"/>
+      <point x="970.8333333333333" y="-233.0"/>
+      <point x="960.3333333333333" y="-237.0"/>
+    </contour>
+  </outline>
+</glyph>

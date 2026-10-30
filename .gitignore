@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+work/
+build/
+*.hinted.ttf
+
+# historical backups are kept on disk but not in the V7 release repository
+backup/v1-*/
+backup/v2-*/
+backup/v3-*/
+backup/v4-*/
+backup/v5-*/
+backup/v6-fonts/
+backup/v6-source/
+backup/v6-pre-*/

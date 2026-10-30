@@ -1,0 +1,6 @@
+442b3b01b60b068f47a9874518f8b314a699f226568180123f630ed896248c42  backup/v6.020-installed/CutiveMono-Cyrillic-Large.otf
+620a90ea7fa2d037a12341d65e46d811b8cf75ddd57008969423d6ab5910e730  backup/v6.020-installed/CutiveMono-Cyrillic-Large.ttf
+d9ce6485a7987598eadc252328b189f1a28c14f126fb79e31732d4bdf5013a69  backup/v6.020-installed/CutiveMono-Cyrillic-Regular.otf
+aaf8154e9983c661e88c4a3769266d2c4c1f3ff55a2cc063c5f1f397faac55f7  backup/v6.020-installed/CutiveMono-Cyrillic-Regular.ttf
+620a90ea7fa2d037a12341d65e46d811b8cf75ddd57008969423d6ab5910e730  backup/v6.020-installed/installed-large.ttf
+aaf8154e9983c661e88c4a3769266d2c4c1f3ff55a2cc063c5f1f397faac55f7  backup/v6.020-installed/installed-regular.ttf
